@@ -30,3 +30,5 @@
 127.0.0.1   peer9 on master
 127.0.0.1   peer8 on dev
 127.0.0.1   peer9 on dev
+127.0.0.1   peer9 on dev
+127.0.0.1   peer10 on 修改在hot_fix，修改完毕
