@@ -26,3 +26,5 @@
 127.0.0.1   peer6
 127.0.0.1   peer7
 127.0.0.1   peer8 on maser
+127.0.0.1   peer8 on dev
+
