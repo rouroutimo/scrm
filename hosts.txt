@@ -33,3 +33,4 @@
 127.0.0.1   peer9 on dev
 127.0.0.1   peer10 on 修改在hot_fix，修改完毕
 127.0.0.1   peer10 on 修改在idea，修改完毕
+127.0.0.1   peer10 on 修改在idea2，修改完毕
